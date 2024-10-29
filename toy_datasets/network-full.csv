@@ -1,4 +1,4 @@
-KinaseID,KinaseSize,EdgeColor,EdgeWeight,TargetID,TargetSize,PhosphoSiteID,log2FC,KinaseActivity,pValue
+KinaseID,KinaseSize,EdgeHue,EdgeWeight,TargetID,TargetSize,PhosphoSiteID,log2FC,KinaseActivity,pValue
 Kinase1,1.2,-1.8,3.38,Target1,1.16,ph1,-1.76,2.08,0.025
 Kinase1,1.2,-1.8,3.38,Target1,1.16,ph2,0.88,2.08,0.125
 Kinase1,1.2,-1.8,3.38,Target1,1.16,ph3,0.67,2.08,0.106
